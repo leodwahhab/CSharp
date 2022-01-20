@@ -1,0 +1,13 @@
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.exe
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.deps.json
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.runtimeconfig.json
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.runtimeconfig.dev.json
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.dll
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.pdb
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.csprojAssemblyReference.cache
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.dll
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.pdb
+C:\Users\Henrique\Desktop\projetos\c#\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.genruntimeconfig.cache

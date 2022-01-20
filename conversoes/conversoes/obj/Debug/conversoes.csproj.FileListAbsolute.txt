@@ -1,0 +1,10 @@
+C:\Leo\_etec\DS\conversoes\conversoes\bin\Debug\conversoes.exe.config
+C:\Leo\_etec\DS\conversoes\conversoes\bin\Debug\conversoes.exe
+C:\Leo\_etec\DS\conversoes\conversoes\bin\Debug\conversoes.pdb
+C:\Leo\_etec\DS\conversoes\conversoes\obj\Debug\conversoes.csproj.AssemblyReference.cache
+C:\Leo\_etec\DS\conversoes\conversoes\obj\Debug\conversoes.Form1.resources
+C:\Leo\_etec\DS\conversoes\conversoes\obj\Debug\conversoes.Properties.Resources.resources
+C:\Leo\_etec\DS\conversoes\conversoes\obj\Debug\conversoes.csproj.GenerateResource.cache
+C:\Leo\_etec\DS\conversoes\conversoes\obj\Debug\conversoes.csproj.CoreCompileInputs.cache
+C:\Leo\_etec\DS\conversoes\conversoes\obj\Debug\conversoes.exe
+C:\Leo\_etec\DS\conversoes\conversoes\obj\Debug\conversoes.pdb

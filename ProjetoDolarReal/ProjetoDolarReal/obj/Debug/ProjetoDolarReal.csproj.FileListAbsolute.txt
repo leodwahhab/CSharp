@@ -1,0 +1,10 @@
+C:\Leo\_etec\DS\ProjetoDolarReal\ProjetoDolarReal\bin\Debug\ProjetoDolarReal.exe.config
+C:\Leo\_etec\DS\ProjetoDolarReal\ProjetoDolarReal\bin\Debug\ProjetoDolarReal.exe
+C:\Leo\_etec\DS\ProjetoDolarReal\ProjetoDolarReal\bin\Debug\ProjetoDolarReal.pdb
+C:\Leo\_etec\DS\ProjetoDolarReal\ProjetoDolarReal\obj\Debug\ProjetoDolarReal.csproj.AssemblyReference.cache
+C:\Leo\_etec\DS\ProjetoDolarReal\ProjetoDolarReal\obj\Debug\ProjetoDolarReal.Form1.resources
+C:\Leo\_etec\DS\ProjetoDolarReal\ProjetoDolarReal\obj\Debug\ProjetoDolarReal.Properties.Resources.resources
+C:\Leo\_etec\DS\ProjetoDolarReal\ProjetoDolarReal\obj\Debug\ProjetoDolarReal.csproj.GenerateResource.cache
+C:\Leo\_etec\DS\ProjetoDolarReal\ProjetoDolarReal\obj\Debug\ProjetoDolarReal.csproj.CoreCompileInputs.cache
+C:\Leo\_etec\DS\ProjetoDolarReal\ProjetoDolarReal\obj\Debug\ProjetoDolarReal.exe
+C:\Leo\_etec\DS\ProjetoDolarReal\ProjetoDolarReal\obj\Debug\ProjetoDolarReal.pdb

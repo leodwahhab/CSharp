@@ -1,0 +1,10 @@
+C:\Leo\_etec\DS\Projetinho\Projetinho\bin\Debug\Projetinho.exe.config
+C:\Leo\_etec\DS\Projetinho\Projetinho\bin\Debug\Projetinho.exe
+C:\Leo\_etec\DS\Projetinho\Projetinho\bin\Debug\Projetinho.pdb
+C:\Leo\_etec\DS\Projetinho\Projetinho\obj\Debug\Projetinho.csproj.AssemblyReference.cache
+C:\Leo\_etec\DS\Projetinho\Projetinho\obj\Debug\Projetinho.Form1.resources
+C:\Leo\_etec\DS\Projetinho\Projetinho\obj\Debug\Projetinho.Properties.Resources.resources
+C:\Leo\_etec\DS\Projetinho\Projetinho\obj\Debug\Projetinho.csproj.GenerateResource.cache
+C:\Leo\_etec\DS\Projetinho\Projetinho\obj\Debug\Projetinho.csproj.CoreCompileInputs.cache
+C:\Leo\_etec\DS\Projetinho\Projetinho\obj\Debug\Projetinho.exe
+C:\Leo\_etec\DS\Projetinho\Projetinho\obj\Debug\Projetinho.pdb

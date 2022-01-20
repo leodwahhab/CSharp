@@ -1,0 +1,49 @@
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.exe
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.deps.json
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.runtimeconfig.json
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.runtimeconfig.dev.json
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.dll
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.pdb
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csprojAssemblyReference.cache
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.Form1.resources
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csproj.GenerateResource.cache
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.AssemblyInfoInputs.cache
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.AssemblyInfo.cs
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.dll
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.pdb
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.genruntimeconfig.cache
+C:\Users\Leo\Documents\studies\DS\ProjetoEventos\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.Properties.Resources.resources
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.exe
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.deps.json
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.runtimeconfig.json
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.runtimeconfig.dev.json
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.dll
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.pdb
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csproj.AssemblyReference.cache
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.Form1.resources
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.Properties.Resources.resources
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csproj.GenerateResource.cache
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.AssemblyInfoInputs.cache
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.AssemblyInfo.cs
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csproj.CoreCompileInputs.cache
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.dll
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.pdb
+C:\Leo\_etec\eventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.genruntimeconfig.cache
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.exe
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.deps.json
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.runtimeconfig.json
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.runtimeconfig.dev.json
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.dll
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.pdb
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csproj.AssemblyReference.cache
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.Form1.resources
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.Properties.Resources.resources
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csproj.GenerateResource.cache
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.GeneratedMSBuildEditorConfig.editorconfig
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.AssemblyInfoInputs.cache
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.AssemblyInfo.cs
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csproj.CoreCompileInputs.cache
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.dll
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.pdb
+F:\_etec\DS\ProjetoEventos\Projeto Eventos DS\ProjetoEventos DS\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.genruntimeconfig.cache

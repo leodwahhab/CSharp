@@ -1,0 +1,10 @@
+C:\Leo\_etec\DS\ProjetoConversoes\ProjetoConversoes\bin\Debug\ProjetoConversoes.exe.config
+C:\Leo\_etec\DS\ProjetoConversoes\ProjetoConversoes\bin\Debug\ProjetoConversoes.exe
+C:\Leo\_etec\DS\ProjetoConversoes\ProjetoConversoes\bin\Debug\ProjetoConversoes.pdb
+C:\Leo\_etec\DS\ProjetoConversoes\ProjetoConversoes\obj\Debug\ProjetoConversoes.csproj.AssemblyReference.cache
+C:\Leo\_etec\DS\ProjetoConversoes\ProjetoConversoes\obj\Debug\ProjetoConversoes.Form1.resources
+C:\Leo\_etec\DS\ProjetoConversoes\ProjetoConversoes\obj\Debug\ProjetoConversoes.Properties.Resources.resources
+C:\Leo\_etec\DS\ProjetoConversoes\ProjetoConversoes\obj\Debug\ProjetoConversoes.csproj.GenerateResource.cache
+C:\Leo\_etec\DS\ProjetoConversoes\ProjetoConversoes\obj\Debug\ProjetoConversoes.csproj.CoreCompileInputs.cache
+C:\Leo\_etec\DS\ProjetoConversoes\ProjetoConversoes\obj\Debug\ProjetoConversoes.exe
+C:\Leo\_etec\DS\ProjetoConversoes\ProjetoConversoes\obj\Debug\ProjetoConversoes.pdb

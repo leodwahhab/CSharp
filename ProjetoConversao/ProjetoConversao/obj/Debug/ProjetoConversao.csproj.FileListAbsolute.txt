@@ -1,0 +1,10 @@
+C:\Leo\_etec\DS\ProjetoConversao\ProjetoConversao\bin\Debug\ProjetoConversao.exe.config
+C:\Leo\_etec\DS\ProjetoConversao\ProjetoConversao\bin\Debug\ProjetoConversao.exe
+C:\Leo\_etec\DS\ProjetoConversao\ProjetoConversao\bin\Debug\ProjetoConversao.pdb
+C:\Leo\_etec\DS\ProjetoConversao\ProjetoConversao\obj\Debug\ProjetoConversao.csproj.AssemblyReference.cache
+C:\Leo\_etec\DS\ProjetoConversao\ProjetoConversao\obj\Debug\ProjetoConversao.Form1.resources
+C:\Leo\_etec\DS\ProjetoConversao\ProjetoConversao\obj\Debug\ProjetoConversao.Properties.Resources.resources
+C:\Leo\_etec\DS\ProjetoConversao\ProjetoConversao\obj\Debug\ProjetoConversao.csproj.GenerateResource.cache
+C:\Leo\_etec\DS\ProjetoConversao\ProjetoConversao\obj\Debug\ProjetoConversao.csproj.CoreCompileInputs.cache
+C:\Leo\_etec\DS\ProjetoConversao\ProjetoConversao\obj\Debug\ProjetoConversao.exe
+C:\Leo\_etec\DS\ProjetoConversao\ProjetoConversao\obj\Debug\ProjetoConversao.pdb

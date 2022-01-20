@@ -1,0 +1,10 @@
+C:\Leo\_etec\DS\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.exe.config
+C:\Leo\_etec\DS\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.exe
+C:\Leo\_etec\DS\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.pdb
+C:\Leo\_etec\DS\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.AssemblyReference.cache
+C:\Leo\_etec\DS\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.Form1.resources
+C:\Leo\_etec\DS\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.Properties.Resources.resources
+C:\Leo\_etec\DS\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.GenerateResource.cache
+C:\Leo\_etec\DS\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.CoreCompileInputs.cache
+C:\Leo\_etec\DS\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.exe
+C:\Leo\_etec\DS\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.pdb

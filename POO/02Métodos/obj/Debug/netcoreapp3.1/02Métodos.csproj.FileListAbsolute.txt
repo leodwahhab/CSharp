@@ -1,0 +1,13 @@
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.exe
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.deps.json
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.runtimeconfig.json
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.runtimeconfig.dev.json
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.dll
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.pdb
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.csprojAssemblyReference.cache
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.dll
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.pdb
+C:\Users\Henrique\Desktop\projetos\c#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.genruntimeconfig.cache

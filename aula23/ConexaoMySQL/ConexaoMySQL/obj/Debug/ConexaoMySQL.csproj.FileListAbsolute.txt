@@ -1,0 +1,12 @@
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\bin\Debug\ConexaoMySQL.exe.config
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\bin\Debug\ConexaoMySQL.exe
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\bin\Debug\ConexaoMySQL.pdb
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\bin\Debug\MySql.Data.dll
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\obj\Debug\ConexaoMySQL.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\obj\Debug\ConexaoMySQL.Form1.resources
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\obj\Debug\ConexaoMySQL.Properties.Resources.resources
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\obj\Debug\ConexaoMySQL.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\obj\Debug\ConexaoMySQL.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\obj\Debug\ConexaoMySQL.csproj.CopyComplete
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\obj\Debug\ConexaoMySQL.exe
+C:\Users\adria\Desktop\etec\SEBRAE\DS\aula23\ConexaoMySQL\ConexaoMySQL\obj\Debug\ConexaoMySQL.pdb
